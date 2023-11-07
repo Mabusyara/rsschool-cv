@@ -1,3 +1,4 @@
+![my-photo](Images\Me.jpg)
 # **ALEKSEY SOBOLEV**
 **Future JS/Frontend Developer**
 ***
@@ -6,7 +7,9 @@
 City: *Saint-Petersburg (Russian Federation)*\
 Discord: Mabusyara\
 Telegram: @mabusyara\
-E-mail: immabus@gmail.com
+E-mail: immabus@gmail.com\
+[GitHub](https://github.com/Mabusyara)
+
 
 ## About me
 I love learning new things, achieving my goals, and seeing everything work as intended.
@@ -39,11 +42,11 @@ function palindrome(str) {
 ## Education
 * Baltic State Technical University "Voenmeh" D.F. Ustinov, Department of Information and Control Systems
 * Courses
-  1. FreeCodeCamp
+  1. FreeCodeCamp (Responsive Web Design, JavaScript Algorithms and Data Structures)
   2. Stepik - Python, etc.
 
 ## Languages
-Russian - Native\
-English - Professional, B1.
++ Russian - Native
++ English - Professional, B1.
 
 
