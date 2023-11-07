@@ -1,1 +1,1 @@
-https://mabusyara.github.io/rsschool-cv/cv
+https://mabusyara.github.io/rsschool-cv/
